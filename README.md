@@ -4,8 +4,8 @@
 
 #### Verus
 
-(of a thing) not imitation or artificial; genuine.
+\_\_\_(of a thing) not imitation or artificial; genuine.
 
 #### Machina
 
-apparatus of interrelated parts with separate functions, used in the performance of work
+\_\_\_apparatus of interrelated parts with separate functions, used in the performance of work
