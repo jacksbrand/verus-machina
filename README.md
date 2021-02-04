@@ -1,6 +1,6 @@
 # Verus Machina
 
-### Modern Web and Sytems Development
+## Modern Web and Sytems Development
 
 #### Verus
 
