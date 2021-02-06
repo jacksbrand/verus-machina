@@ -1,6 +1,6 @@
 # Verus Machina
 
-## Modern Web and Sytems Development
+## Modern Web and Sytem Development
 
 #### Verus
 
@@ -8,4 +8,5 @@
 
 #### Machina
 
-\_\_\_apparatus of interrelated parts with separate functions, used in the performance of work
+\_\_\_apparatus of interrelated parts with separate functions, used in the
+performance of work
